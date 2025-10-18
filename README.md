@@ -11,8 +11,6 @@
 ## Sobre mim
 
 <p align="center">
-Futura <b>Engenheira de Software</b><br>
-Atualmente aprimorando minhas habilidades em <b>JavaScript</b>, <b>React</b>.<br>
 Sou uma estudante dedicada, curiosa e sempre em busca de aprimoramento.<br>
 Acredito que a tecnologia tem o poder de transformar realidades, e é isso que me motiva a continuar aprendendo e criando.<br>
 Gosto de desafios, de trabalhar com código e de desenvolver soluções que façam a diferença.
