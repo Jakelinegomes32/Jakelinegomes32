@@ -11,9 +11,9 @@
 ## Sobre mim
 
 <p align="center">
-Sou uma estudante dedicada, curiosa e sempre em busca de aprimoramento.<br>
-Acredito que a tecnologia tem o poder de transformar realidades, e é isso que me motiva a continuar aprendendo e criando.<br>
-Gosto de desafios, de trabalhar com código e de desenvolver soluções que façam a diferença.
+Sou uma estudante curiosa e sempre em busca de aprimoramento.<br>
+Acredito que a tecnologia tem o poder de transformar realidades, e é isso que me motiva a continuar aprendendo.<br>
+Gosto de desafios, de trabalhar com código e de desenvolver soluções.
 </p>
 
 <br>
