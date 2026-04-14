@@ -27,7 +27,7 @@ Gosto de desafios, de trabalhar com código e de desenvolver soluções.
 ### Estatísticas do GitHub
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jakelinegomes32&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinegomes32&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinegomes32&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
@@ -35,16 +35,16 @@ Gosto de desafios, de trabalhar com código e de desenvolver soluções.
 ### Onde me encontrar
 <div align="center">
   <a href="mailto:jakelinesg.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/jakelinegomes32/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/jakelinegomes22/">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.com/users/jakelinegomes">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
